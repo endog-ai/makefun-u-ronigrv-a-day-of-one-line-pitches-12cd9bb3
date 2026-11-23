@@ -7,10 +7,12 @@ Python 3.13, stdlib only, deterministic, no network.
 import os
 from pathlib import Path
 
+# Hook for the judge: the friend's own idea, stuck "for months", becomes
+# something to show tonight with no code — a concrete payoff, zero risk.
 LINE = (
-    "You've had that app idea in your head for months — tell it to "
-    "an AI agent on make.fun, write no code at all, and tonight show "
-    "your friends the thing that was only in your head this morning."
+    "You've carried that app idea around for months, so just "
+    "describe it in plain words to an AI agent on make.fun and "
+    "show your friends tonight the real thing — no code, nothing to lose."
 )
 
 
